@@ -4,7 +4,7 @@
 I'm Auréliane, a front-end developer from France. <br />
 
 - 💻 I’m studying at @OpenClassrooms since July 2021.
-- 🌱 I’m currently learning about APIs!
+- 🌱 I’m currently learning about state management in React with Redux!
 - ⚡️ Fun fact: I'm obsessed with music and anything Spider-Man related.
 </p>
 
