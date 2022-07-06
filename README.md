@@ -14,6 +14,7 @@ I'm Auréliane, a front-end developer from France. <br />
 <p>
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white" />
+  <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" />
