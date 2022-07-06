@@ -4,7 +4,7 @@
 I'm Auréliane, a front-end developer from France. <br />
 
 - 💻 I’m studying at @OpenClassrooms since July 2021.
-- 🌱 I’m currently learning about state management in React with Redux!
+- 🌱 I’m currently learning about creating React plugins from jQuery plugins!
 - ⚡️ Fun fact: I'm obsessed with music and anything Spider-Man related.
 </p>
 
@@ -22,6 +22,7 @@ I'm Auréliane, a front-end developer from France. <br />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?logo=visual%20studio%20code&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?logo=react&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white" />
 </p>
 
 <br />
