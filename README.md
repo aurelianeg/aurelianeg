@@ -3,9 +3,9 @@
 <p>
 I'm Auréliane, a front-end developer from France. <br />
 
-- 💻 I’m studying at @OpenClassrooms since July 2021.
-- 🌱 I’m currently learning about creating React plugins from jQuery plugins!
-- ⚡️ Fun fact: I'm obsessed with music and anything Spider-Man related.
+- 💻 I’m currently looking for a job in front-end development with JavaScript and React! Feel free to contact me if you have an opportunity for me :)
+- 🌱 I’m learning about new methods in JS!
+- ⚡️ About me: I always listen to music and I'm obsessed with anything Spider-Man related.
 </p>
 
 <br />
