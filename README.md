@@ -7,7 +7,7 @@ I'm Auréliane, a front-end developer from France. <br />
 - 🌱 I’m currently learning about NodeJS and TypeScript!
 - ⚡️ About me: I always listen to music and I'm obsessed with anything Spider-Man related.
 </p>
-
+<br />
 
 <h2>🖍 Things I work with</h2>
 <p>
@@ -24,14 +24,14 @@ I'm Auréliane, a front-end developer from France. <br />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?logo=visual%20studio%20code&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-14354C?logo=python&logoColor=white" />
-  <img alt="ESLint" src="https://img.shields.io/badge/-eslint-3A33D1?logo=eslint&logoColor=white" />
+  <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-3A33D1?logo=eslint&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-593D88?logo=redux&logoColor=white" />
   <img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime_Text-%23575757.svg?logo=sublime-text&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-444542?logo=Jest&logoColor=white" />
   <img alt="Testing Library" src="https://img.shields.io/badge/-Testing%20Library-323330?logo=testing-library&logoColor=white" />
   <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?logo=Notion&logoColor=white" />
 </p>
-
+<br />
 
 <h2>🔗 You can find me here</h2>
 <p>
@@ -45,7 +45,7 @@ I'm Auréliane, a front-end developer from France. <br />
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
-
+<br />
 
 ------------
 
