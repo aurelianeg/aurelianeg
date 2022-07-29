@@ -8,7 +8,6 @@ I'm Auréliane, a front-end developer from France. <br />
 - ⚡️ About me: I always listen to music and I'm obsessed with anything Spider-Man related.
 </p>
 
-<br />
 
 <h2>🖍 Things I work with</h2>
 <p>
@@ -28,12 +27,11 @@ I'm Auréliane, a front-end developer from France. <br />
   <img alt="ESLint" src="https://img.shields.io/badge/-eslint-3A33D1?logo=eslint&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-593D88?logo=redux&logoColor=white" />
   <img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime_Text-%23575757.svg?logo=sublime-text&logoColor=white" />
-  <img alt="Jest" src="https://img.shields.io/badge/-Jest-323330?logo=Jest&logoColor=white" />
-  <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?logo=Notion&logoColor=white" />
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-444542?logo=Jest&logoColor=white" />
   <img alt="Testing Library" src="https://img.shields.io/badge/-Testing%20Library-323330?logo=testing-library&logoColor=white" />
+  <img alt="Notion" src="https://img.shields.io/badge/-Notion-000000?logo=Notion&logoColor=white" />
 </p>
 
-<br />
 
 <h2>🔗 You can find me here</h2>
 <p>
@@ -48,7 +46,6 @@ I'm Auréliane, a front-end developer from France. <br />
   </a>
 </p>
 
-<br />
 
 ------------
 
