@@ -4,7 +4,7 @@
 I'm Auréliane, a front-end developer from France. <br />
 
 - 💻 I’m currently looking for a job in front-end development with JavaScript and React! Feel free to contact me if you have an opportunity for me :)
-- 🌱 I’m learning about new methods in JS!
+- 🌱 I’m learning about NodeJS and TypeScript!
 - ⚡️ About me: I always listen to music and I'm obsessed with anything Spider-Man related.
 </p>
 
