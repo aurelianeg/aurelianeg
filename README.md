@@ -3,8 +3,10 @@
 <p>
 I'm Auréliane, a front-end developer from France. <br />
 
-- 💻 I’m looking for a job as a front-end developer (with JS and React). Feel free to contact me if you have an opportunity for me!
+- 💻 I’m looking for a full-time job as a front-end developer. Feel free to reach out to me if you have an opportunity for me!
+
 - 🌱 I’m currently learning about NodeJS and TypeScript!
+
 - ⚡️ About me: I always listen to music and I'm obsessed with anything Spider-Man related.
 </p>
 <br />
